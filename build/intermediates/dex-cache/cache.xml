@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-cde4407215950d6bc801676cb79fe7c98dae4c49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-dc2c755a026e8c2fef55ec4b78bc8bec7a3178dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\pre-dexed\release\classes-890ac442a92b7db59846cb7853d6613afc8046e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-f895a56f82dfba3fd942305f0374bbe770f60bfe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-4e82dd5f8c2d3f9f0f4bb6dedc08471bbf84b903.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\pre-dexed\release\support-annotations-22.0.0-536415db524dd383fb3229d1c74d112488025118.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-0ae0602889abbdabed5a7930bec3a656bf3f860e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\pre-dexed\release\classes-5b8b62dd1e4762243dad3282c7163580b0196893.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\pre-dexed\release\classes-3a458d2c933d3b02f66b644f8de326a3d8f4c323.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-f36a33f852272b83f3c21ef216b6d5d71a543c95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-08f73ea831921957fade02f8757decd31b725eaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-20c167b12677839cad582efdbda1b73d4da5da61.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-dfeaa685ac00234128b6d40e81f0f18e08148602.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-1b130daab0b285f5bb4166afaf9b0cbd94faf6cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-ddfe1e755c6d97448adb6b2659f152e8cc09b1f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-0fcdb1071b168a550194051a46bba93ff8e6d19a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-36979a7595b7e0a8d3c1a118ef738788572a4faa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-d8cdbe01e1fe67251cce11c22b3feedaa1119fed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-71f1ef4eea2b02247c0cb3102c71fc0de04192c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-80ce560b07107006c723c65ea73e9ab3c69442ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\pre-dexed\release\classes-1f806aa7a7bd3271b0d88caf332040fb02ef1451.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-cc2cdd40dd40246ffb382eec830d20ed33bb0fde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-cb2d71fcfe725ede29db7e33054ff2f8168b02a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\pre-dexed\release\internal_impl-22.0.0-dd817490b4fa8cde208cb5147d600981eed8b778.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-f8f18577f6e53d1240fe8bb937e3dc13b79695d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-19635b9d305ac6af1de62ba1aff0652178bd16f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-76a0a874648454bc8dea2892ed3339ffe5a6fdff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\mobile\build\intermediates\pre-dexed\debug\classes-10b6a8238a926794b2a5dd922b264f1462fa2630.jar" />
+    </item>
+    <item
+        jar="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Harman\AndroidStudioProjects\Robot\wear\build\intermediates\pre-dexed\release\classes-d4f64e9232c697e2c6bbb798bb492d94f759cf45.jar" />
+    </item>
+
+</items>
